@@ -41,8 +41,8 @@ Save the model using pickle
 Using the DL model predict some random inputs
 ## PROGRAM
 
-### Name: Ronick Aakshath P
-### Register Number: 212222240084
+### Name: SHARAN MJ
+### Register Number: 212222240097
 
 ```python
 import pandas as pd
